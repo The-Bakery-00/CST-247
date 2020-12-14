@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\bin\HelloWorldService.dll.config
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\bin\HelloWorldService.dll
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\bin\HelloWorldService.pdb
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\obj\Debug\HelloWorldService.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\obj\Debug\HelloWorldService.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\obj\Debug\HelloWorldService.dll
+\\vmware-host\Shared Folders\Desktop\Activity_1_Part_3\HelloWorldService\obj\Debug\HelloWorldService.pdb
