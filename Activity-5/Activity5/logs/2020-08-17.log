@@ -1,0 +1,5 @@
+2020-08-17 00:03:20.0563 DEBUG Reached LoginController::Index()
+2020-08-17 00:03:39.1348 DEBUG Reached LoginController::Login() method
+2020-08-17 00:06:12.4155 DEBUG Reached LoginController::Index()
+2020-08-17 00:07:53.3968 DEBUG Reached LoginController::Index()
+2020-08-17 00:09:06.2765 DEBUG Reached LoginController::Login() method
