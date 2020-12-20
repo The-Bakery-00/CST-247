@@ -1,0 +1,285 @@
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\ApplicationInsights.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\BibleVerseApp.dll.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\BibleVerseApp.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\BibleVerseApp.pdb
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csc.exe
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csc.exe.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csc.rsp
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csi.exe
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csi.exe.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\csi.rsp
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.AppContext.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Console.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\vbc.exe
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\vbc.exe.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\vbc.rsp
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Antlr3.Runtime.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.Web.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Newtonsoft.Json.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Helpers.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Mvc.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Optimization.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Razor.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\WebGrease.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Helpers.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Mvc.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Optimization.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.Razor.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Newtonsoft.Json.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Antlr3.Runtime.pdb
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.AI.Web.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\obj\Debug\BibleVerseApp.csprojAssemblyReference.cache
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CoreCompileInputs.cache
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CopyComplete
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\obj\Debug\BibleVerseApp.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\obj\Debug\BibleVerseApp.pdb
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\EntityFramework.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\EntityFramework.xml
+C:\Users\Rick\source\repos\BibleVerseApp\BibleVerseApp\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\ApplicationInsights.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.dll.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.pdb
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.Managed.Core.targets
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Pipes.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.AccessControl.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Claims.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Principal.Windows.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Agent.Intercept.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.PerfCounterCollector.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Web.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.WindowsServer.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.ApplicationInsights.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.WindowsServer.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Web.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.dll
+\\vmware-host\Shared Folders\Desktop\BibleVerseApp-master\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.pdb
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\ApplicationInsights.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.dll.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\BibleVerseApp.pdb
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.Managed.Core.targets
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.IO.Pipes.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.AccessControl.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Claims.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Security.Principal.Windows.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.SqlServer.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Agent.Intercept.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.PerfCounterCollector.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Web.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.WindowsServer.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.ApplicationInsights.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Optimization.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\EntityFramework.SqlServer.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Optimization.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Antlr3.Runtime.pdb
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\System.Diagnostics.DiagnosticSource.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.DependencyCollector.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.WindowsServer.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.AI.Web.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csprojAssemblyReference.cache
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.dll
+\\vmware-host\Shared Folders\Desktop\Bible_Verse\BibleVerseApp-master\BibleVerseApp\obj\Debug\BibleVerseApp.pdb

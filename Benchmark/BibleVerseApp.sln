@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibleVerseApp", "BibleVerseApp\BibleVerseApp.csproj", "{5FF0283B-F1D9-4613-9A01-68BF2E4A5293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF0283B-F1D9-4613-9A01-68BF2E4A5293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF0283B-F1D9-4613-9A01-68BF2E4A5293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF0283B-F1D9-4613-9A01-68BF2E4A5293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF0283B-F1D9-4613-9A01-68BF2E4A5293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D92CC9-D7DB-4088-964C-0DF4CD8CD0D4}
+	EndGlobalSection
+EndGlobal

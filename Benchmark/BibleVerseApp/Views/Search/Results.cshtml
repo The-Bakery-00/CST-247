@@ -1,0 +1,41 @@
+﻿@model BibleVerseApp.Models.ResultsModel
+
+@{
+    ViewBag.Title = "Success";
+}
+
+<!DOCTYPE html>
+
+<body>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <h4>Search Results</h4>
+
+    <table class="table table-bordered table-responsive table-hover">
+        <thead>
+            <tr>
+                <th>Testament  </th>
+                <th>Book        </th>
+                <th>Chapter </th>
+                <th>Number </th>
+                <th>Verse  </th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model.results)
+            {
+                <tr>
+                    <td>@item.Testament</td>
+                    <td>@item.Book</td>
+                    <td>@item.Chapter</td>
+                    <td>@item.Number</td>
+                    <td>@item.Text</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+</body>
